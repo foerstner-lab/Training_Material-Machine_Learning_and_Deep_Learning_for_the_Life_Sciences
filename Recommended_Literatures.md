@@ -1,23 +1,5 @@
 # Recommended Literature
 
-## Articles
-
-- Noble WS. What is a support vector machine? Nat Biotechnol. 2006
-  Dec;24(12):1565-7. https://doi.org/10.1038/nbt1206-1565
-
-- Ben-Hur A, Ong CS, Sonnenburg S, Schölkopf B, Rätsch G. Support
-  vector machines and kernels for computational biology. PLoS Comput
-  Biol. 2008 Oct;4(10):e1000173. https://doi.org/10.1371/journal.pcbi.1000173
-
-- Kingsford C, Salzberg SL. What are decision trees? Nat
-  Biotechnol. 2008 Sep;26(9):1011-3.
-  https://doi.org/10.1038/nbt0908-1011
-
-- Nguyen LH, Holmes S. Ten quick tips for effective dimensionality
-  reduction.  PLoS Comput Biol. 2019 Jun 20;15(6):e1006907. 
-  https://doi.org/10.1371/journal.pcbi.1006907
-
-
 ## Books 
 
 - [Introduction to Machine Learning with Python - A Guide for Data
@@ -37,4 +19,22 @@
 - [Deep Learning in Bioinformatics - Techniques and Applications in
   Practice](https://doi.org/10.1016/C2020-0-00432-9), Habib Izadkhah,
   2022, ISBN 978-0-12-823822-6
+
+
+## Articles
+
+- Noble WS. What is a support vector machine? Nat Biotechnol. 2006
+  Dec;24(12):1565-7. https://doi.org/10.1038/nbt1206-1565
+
+- Ben-Hur A, Ong CS, Sonnenburg S, Schölkopf B, Rätsch G. Support
+  vector machines and kernels for computational biology. PLoS Comput
+  Biol. 2008 Oct;4(10):e1000173. https://doi.org/10.1371/journal.pcbi.1000173
+
+- Kingsford C, Salzberg SL. What are decision trees? Nat
+  Biotechnol. 2008 Sep;26(9):1011-3.
+  https://doi.org/10.1038/nbt0908-1011
+
+- Nguyen LH, Holmes S. Ten quick tips for effective dimensionality
+  reduction.  PLoS Comput Biol. 2019 Jun 20;15(6):e1006907. 
+  https://doi.org/10.1371/journal.pcbi.1006907
 
