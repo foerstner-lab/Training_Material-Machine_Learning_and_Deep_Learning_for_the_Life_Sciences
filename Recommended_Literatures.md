@@ -23,12 +23,17 @@
 
 ## Articles
 
-- Noble WS. What is a support vector machine? Nat Biotechnol. 2006
-  Dec;24(12):1565-7. https://doi.org/10.1038/nbt1206-1565
+(alphabetically ordered)
 
 - Ben-Hur A, Ong CS, Sonnenburg S, Schölkopf B, Rätsch G. Support
   vector machines and kernels for computational biology. PLoS Comput
   Biol. 2008 Oct;4(10):e1000173. https://doi.org/10.1371/journal.pcbi.1000173
+
+- Grešová K, Martinek V, Čechák D, Šimeček P, Alexiou P. Genomic
+  benchmarks: a collection of datasets for genomic sequence
+  classification. BMC Genom Data. 2023 May 1;24(1):25. doi:
+  https://doi.org/10.1186/s12863-023-01123-8. PMID: 37127596; PMCID:
+  PMC10150520
 
 - Kingsford C, Salzberg SL. What are decision trees? Nat
   Biotechnol. 2008 Sep;26(9):1011-3.
@@ -38,8 +43,5 @@
   reduction.  PLoS Comput Biol. 2019 Jun 20;15(6):e1006907. 
   https://doi.org/10.1371/journal.pcbi.1006907
 
-- Grešová K, Martinek V, Čechák D, Šimeček P, Alexiou P. Genomic
-  benchmarks: a collection of datasets for genomic sequence
-  classification. BMC Genom Data. 2023 May 1;24(1):25. doi:
-  https://doi.org/10.1186/s12863-023-01123-8. PMID: 37127596; PMCID:
-  PMC10150520
+- Noble WS. What is a support vector machine? Nat Biotechnol. 2006
+  Dec;24(12):1565-7. https://doi.org/10.1038/nbt1206-1565
