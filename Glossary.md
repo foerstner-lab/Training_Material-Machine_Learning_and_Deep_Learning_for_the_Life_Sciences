@@ -1,5 +1,7 @@
 # Glossary
 
+**Activation function**:
+
 **Backpropagation**: Backpropagation is an algorithm used to train
 artificial neural networks. It works by iteratively adjusting the
 weights of connections between nodes (neurons) in the network based on
@@ -13,3 +15,6 @@ convergence is reached. Backpropagation has become one of the most
 widely used algorithms in machine learning due to its effectiveness
 and simplicity, as well as its ability to handle a wide range of
 problems from image recognition to natural language processing.
+
+
+**Loss function**: 
