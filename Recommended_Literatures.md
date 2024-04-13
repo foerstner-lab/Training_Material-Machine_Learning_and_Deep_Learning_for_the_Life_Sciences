@@ -38,3 +38,8 @@
   reduction.  PLoS Comput Biol. 2019 Jun 20;15(6):e1006907. 
   https://doi.org/10.1371/journal.pcbi.1006907
 
+- Grešová K, Martinek V, Čechák D, Šimeček P, Alexiou P. Genomic
+  benchmarks: a collection of datasets for genomic sequence
+  classification. BMC Genom Data. 2023 May 1;24(1):25. doi:
+  https://doi.org/10.1186/s12863-023-01123-8. PMID: 37127596; PMCID:
+  PMC10150520
